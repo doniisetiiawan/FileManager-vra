@@ -1,0 +1,6 @@
+{
+  "mongoUrl": "mongodb://localhost/filemanager-vra",
+  "port": 3000,
+  "sessionSecret": "bandwidth",
+  "sessionMaxAge": 3600000
+}

@@ -20,7 +20,17 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
+    "async": "^3.2.0",
+    "body-parser": "latest",
+    "connect-flash": "^0.1.1",
+    "connect-multiparty": "^2.2.0",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^1.4.0",
+    "errorhandler": "^1.5.1",
     "express": "^4.17.1",
-    "mongoose": "^5.9.4"
+    "method-override": "^3.0.0",
+    "mongoose": "^5.9.4",
+    "morgan": "^1.9.1",
+    "pwd": "^1.1.0"
   }
 }
